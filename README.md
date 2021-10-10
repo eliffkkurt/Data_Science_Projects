@@ -6,3 +6,7 @@ I performed preprocessing and model building operations with the decision tree o
 ### 2. **Inzva - Applied AI Study Group #5 - Recommender Systems Homework**
     
 I developed a model recommending movies using cosine similarity on [The Movies](https://www.kaggle.com/rounakbanik/the-movies-dataset/data) data in Kaggle.
+
+### 3. Classifying Skin Cancer
+
+I developed a model classifying skin lesions as benign and malignant using NasNet on [Isic Challenge Dataset - 2019](https://challenge.isic-archive.com/data/)
