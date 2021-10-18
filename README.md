@@ -10,3 +10,6 @@ I developed a model recommending movies using cosine similarity on [The Movies](
 ### 3. Classifying Skin Cancer
 
 I developed a model classifying skin lesions as benign and malignant using NasNet on [Isic Challenge Dataset - 2019](https://challenge.isic-archive.com/data/)
+
+### 4. Develop k-Nearest Neighbors Classifier in Python From Scratch
+I implemented k-Nearest Neighbors Classification Algorithm in python from scratch using [iris.csv](https://raw.githubusercontent.com/jbrownlee/Datasets/master/iris.csv) dataset.
