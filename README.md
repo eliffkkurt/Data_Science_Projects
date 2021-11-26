@@ -14,7 +14,8 @@ I developed a model classifying skin lesions as benign and malignant using NasNe
 ## 4. Develop k-Nearest Neighbors Classifier in Python From Scratch
 I implemented k-Nearest Neighbors Classification Algorithm in python from scratch using [iris.csv](https://www.kaggle.com/uciml/iris) dataset.
 
-## 5. An Introduction to Statistical Learning Book 
+## 5. An Introduction to Statistical Learning Book
+After studying the theoretical parts of the [An Introduction to Statistical Learning with Applications in R](https://web.stanford.edu/~hastie/ISLRv2_website.pdf) book, I answered the applied questions at the end of each chapter with python.
 ### Chapter 2 
 **ISLR - Chapter 2 - (Exercises,Applied,Question 8)**
 
