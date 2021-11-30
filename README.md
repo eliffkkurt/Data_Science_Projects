@@ -25,4 +25,6 @@ I performed data exploring and data visualization operations using matplotlib an
 
 I performed data exploring and data visualization operations using seaborn library on [Auto.csv](https://book.huihoo.com/introduction-to-statistical-learning/data.html) dataset.
 
+**ISLR - Chapter 2 - (Exercises,Applied,Question 10)**
 
+I performed data exploring, anomaly detection, data visualization operations using sklearn, matplotlib, seaborn library on [Boston.csv](https://www.kaggle.com/prasadperera/the-boston-housing-dataset/data?select=housing.csv) dataset.
