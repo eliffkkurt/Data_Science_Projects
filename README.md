@@ -28,3 +28,11 @@ I performed data exploring and data visualization operations using seaborn libra
 **ISLR - Chapter 2 - (Exercises,Applied,Question 10)**
 
 I performed data exploring, anomaly detection, data visualization operations using sklearn, matplotlib, seaborn library on [Boston.csv](https://www.kaggle.com/prasadperera/the-boston-housing-dataset/data?select=housing.csv) dataset.
+
+### Chapter 5 
+**ISLR - Chapter 5 - 5.2 The Bootstrap**
+
+I created a notebook where I explain step by step what the bootstrap is and I performed bootstrapping operations using scikit-learn library on [Advertising.csv](https://www.kaggle.com/ashydv/advertising-dataset) dataset.
+
+
+
