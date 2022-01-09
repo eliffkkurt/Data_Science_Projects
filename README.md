@@ -32,7 +32,7 @@ I performed data exploring, anomaly detection, data visualization operations usi
 ### Chapter 3 
 **ISLR - Chapter 3 - (Exercises,Applied,Question 8 and 9)**
 
-I created simple linear regression and multiple linear regression on [Auto.csv](https://book.huihoo.com/introduction-to-statistical-learning/data.html) dataset and performed below operations using statsmodels, scipy, matplotlib, seaborn library.
+I created simple linear regression and multiple linear regression on [Auto.csv](https://book.huihoo.com/introduction-to-statistical-learning/data.html) dataset and performed below operations using statsmodels, scipy, matplotlib and seaborn libraries.
 -	Prediction of the confidence interval and prediction interval of the response based on a given variable value,
 -	Evaluating the relationship between the predictors and response based on model’s statistical values (like R-squared, F-statistic, Prob (F-statistic), p-value, coefficients),
 -	Displaying least-squares regression line,
