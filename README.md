@@ -29,6 +29,17 @@ I performed data exploring and data visualization operations using seaborn libra
 
 I performed data exploring, anomaly detection, data visualization operations using sklearn, matplotlib, seaborn library on [Boston.csv](https://www.kaggle.com/prasadperera/the-boston-housing-dataset/data?select=housing.csv) dataset.
 
+### Chapter 3 
+**ISLR - Chapter 3 - (Exercises,Applied,Question 8 and 9)**
+
+I created simple linear regression and multiple linear regression on [Auto.csv](https://book.huihoo.com/introduction-to-statistical-learning/data.html) dataset and performed below operations using statsmodels, scipy, matplotlib, seaborn library.
+-	Prediction of the confidence interval and prediction interval of the response based on a given variable value,
+-	Evaluating the relationship between the predictors and response based on model’s statistical values (like R-squared, F-statistic, Prob (F-statistic), p-value, coefficients),
+-	Displaying least-squares regression line,
+-	Plotting the residuals, studentized residuals, and the leverages,
+-	Fitting linear regression models with interaction effects,
+-	Trying a few different transformations of the variables, such as log(X), √X, X2.
+
 ### Chapter 5 
 **ISLR - Chapter 5 - 5.2 The Bootstrap**
 
