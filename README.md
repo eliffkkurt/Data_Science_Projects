@@ -45,5 +45,7 @@ I created simple linear regression and multiple linear regression on [Auto.csv](
 
 I created a notebook where I explain step by step what the bootstrap is and I performed bootstrapping operations using scikit-learn library on [Advertising.csv](https://www.kaggle.com/ashydv/advertising-dataset) dataset.
 
+### Chapter 6 
+**ISLR - Chapter 6 - 6.4 Considerations in High Dimensions**
 
-
+I created a presentation in which I explain the considerations in high dimensional datasets.
